@@ -1,4 +1,4 @@
-# Python Programs for Module 4: Lab Activity
+# Python Programs for Module 5: Lab Activity
 
 This repository contains Python program solutions for five problems as part of Module 4: Lab Activity. Each solution is commented with the following details:
 - Hikmet Tenis
